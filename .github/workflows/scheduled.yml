@@ -2,7 +2,7 @@ name: Weekly KSU Build
 
 on:
   schedule:
-    - cron: '0 19 * * 6'
+    - cron: '30 18 * * 6'
  
 jobs:
   build:
